@@ -1,0 +1,1 @@
+These are static files for the Swing 49 website.
